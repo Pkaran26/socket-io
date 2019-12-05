@@ -1,0 +1,17 @@
+{
+  "name": "socketIO",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "author": "Prateek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1",
+    "socket.io": "^2.3.0"
+  }
+}
